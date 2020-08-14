@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: dionysbiz
+  repo: testorgbiz
+  url: https://github.com/dionysbiz/testorgbiz.git
+  version: ""
+  versionURL: ""
