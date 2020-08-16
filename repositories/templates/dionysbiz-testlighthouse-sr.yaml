@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testlighthouse
+  name: dionysbiz-testlighthouse
+spec:
+  description: Imported application for dionysbiz/testlighthouse
+  httpCloneURL: https://github.com/dionysbiz/testlighthouse.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testlighthouse
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testlighthouse.git
