@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: afterupdate
+  name: dionysbiz-afterupdate
+spec:
+  description: Imported application for dionysbiz/afterupdate
+  httpCloneURL: https://github.com/dionysbiz/afterupdate.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: afterupdate
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/afterupdate.git
