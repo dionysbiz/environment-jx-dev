@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: testapprove7
-  url: https://github.com/dionysbiz/testapprove7.git
+  repo: testapprove8
+  url: https://github.com/dionysbiz/testapprove8.git
   version: ""
   versionURL: ""
