@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testorg4
+  name: dionysbiz-testorg4
+spec:
+  description: Imported application for dionysbiz/testorg4
+  httpCloneURL: https://github.com/dionysbiz/testorg4.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testorg4
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testorg4.git
