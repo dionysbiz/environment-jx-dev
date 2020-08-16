@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testapprove7
+  name: dionysbiz-testapprove7
+spec:
+  description: Imported application for dionysbiz/testapprove7
+  httpCloneURL: https://github.com/dionysbiz/testapprove7.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testapprove7
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testapprove7.git
