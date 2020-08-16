@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: testorg4
-  url: https://github.com/dionysbiz/testorg4.git
+  repo: testorg5
+  url: https://github.com/dionysbiz/testorg5.git
   version: ""
   versionURL: ""
