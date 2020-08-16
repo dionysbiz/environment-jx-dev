@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: testretest
-  url: https://github.com/dionysbiz/testretest.git
+  repo: testretest2
+  url: https://github.com/dionysbiz/testretest2.git
   version: ""
   versionURL: ""

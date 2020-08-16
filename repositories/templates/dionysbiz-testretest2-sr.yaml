@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testretest2
+  name: dionysbiz-testretest2
+spec:
+  description: Imported application for dionysbiz/testretest2
+  httpCloneURL: https://github.com/dionysbiz/testretest2.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testretest2
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testretest2.git
