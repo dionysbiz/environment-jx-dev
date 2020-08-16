@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: reactq
-  url: https://github.com/dionysbiz/reactq.git
+  repo: testretest
+  url: https://github.com/dionysbiz/testretest.git
   version: ""
   versionURL: ""
