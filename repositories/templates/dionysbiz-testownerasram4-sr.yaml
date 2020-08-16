@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testownerasram4
+  name: dionysbiz-testownerasram4
+spec:
+  description: Imported application for dionysbiz/testownerasram4
+  httpCloneURL: https://github.com/dionysbiz/testownerasram4.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testownerasram4
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testownerasram4.git
