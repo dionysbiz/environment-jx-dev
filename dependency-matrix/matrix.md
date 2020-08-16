@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[dionysbiz/afterupdate](https://github.com/dionysbiz/afterupdate.git) |  | []() | 
+[dionysbiz/afterupdate2](https://github.com/dionysbiz/afterupdate2.git) |  | []() | 
