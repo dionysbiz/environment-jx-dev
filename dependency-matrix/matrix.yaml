@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: testaddowner
-  url: https://github.com/dionysbiz/testaddowner.git
+  repo: testownerasram
+  url: https://github.com/dionysbiz/testownerasram.git
   version: ""
   versionURL: ""
