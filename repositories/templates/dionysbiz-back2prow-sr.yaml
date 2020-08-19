@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: back2prow
+  name: dionysbiz-back2prow
+spec:
+  description: Imported application for dionysbiz/back2prow
+  httpCloneURL: https://github.com/dionysbiz/back2prow.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: back2prow
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/back2prow.git

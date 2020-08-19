@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: dionysbiz
+  repo: back2prow
+  url: https://github.com/dionysbiz/back2prow.git
+  version: ""
+  versionURL: ""
