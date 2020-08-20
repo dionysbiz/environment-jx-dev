@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: afteriptable
+  name: dionysbiz-afteriptable
+spec:
+  description: Imported application for dionysbiz/afteriptable
+  httpCloneURL: https://github.com/dionysbiz/afteriptable.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: afteriptable
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/afteriptable.git

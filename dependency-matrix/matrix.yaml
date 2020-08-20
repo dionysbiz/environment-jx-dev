@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: testmodprovider
-  url: https://github.com/dionysbiz/testmodprovider.git
+  repo: afteriptable
+  url: https://github.com/dionysbiz/afteriptable.git
   version: ""
   versionURL: ""
