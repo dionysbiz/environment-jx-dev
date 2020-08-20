@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: dionysbiz
+  repo: aftercalico
+  url: https://github.com/dionysbiz/aftercalico.git
+  version: ""
+  versionURL: ""
