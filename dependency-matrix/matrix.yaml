@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: aftermakefile
-  url: https://github.com/dionysbiz/aftermakefile.git
+  repo: testmodprovider
+  url: https://github.com/dionysbiz/testmodprovider.git
   version: ""
   versionURL: ""
