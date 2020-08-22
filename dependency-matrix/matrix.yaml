@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: afteriptable
-  url: https://github.com/dionysbiz/afteriptable.git
+  repo: afterremovehrepo
+  url: https://github.com/dionysbiz/afterremovehrepo.git
   version: ""
   versionURL: ""
