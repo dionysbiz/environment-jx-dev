@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testremovelocalhelm
+  name: dionysbiz-testremovelocalhelm
+spec:
+  description: Imported application for dionysbiz/testremovelocalhelm
+  httpCloneURL: https://github.com/dionysbiz/testremovelocalhelm.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testremovelocalhelm
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testremovelocalhelm.git

@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: afterremovehrepo
-  url: https://github.com/dionysbiz/afterremovehrepo.git
+  repo: testremovelocalhelm
+  url: https://github.com/dionysbiz/testremovelocalhelm.git
   version: ""
   versionURL: ""
