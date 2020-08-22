@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: afterclean2
-  url: https://github.com/dionysbiz/afterclean2.git
+  repo: testafterfirstsuccess
+  url: https://github.com/dionysbiz/testafterfirstsuccess.git
   version: ""
   versionURL: ""

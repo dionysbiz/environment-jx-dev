@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testafterfirstsuccess
+  name: dionysbiz-testafterfirstsuccess
+spec:
+  description: Imported application for dionysbiz/testafterfirstsuccess
+  httpCloneURL: https://github.com/dionysbiz/testafterfirstsuccess.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testafterfirstsuccess
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testafterfirstsuccess.git
