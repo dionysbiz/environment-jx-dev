@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: testlb1
-  url: https://github.com/dionysbiz/testlb1.git
+  repo: testlb2
+  url: https://github.com/dionysbiz/testlb2.git
   version: ""
   versionURL: ""
