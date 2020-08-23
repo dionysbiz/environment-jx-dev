@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dionysbiz
+    provider: github
+    repository: testingress
+  name: dionysbiz-testingress
+spec:
+  description: Imported application for dionysbiz/testingress
+  httpCloneURL: https://github.com/dionysbiz/testingress.git
+  org: dionysbiz
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testingress
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dionysbiz/testingress.git

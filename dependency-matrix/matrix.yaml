@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: dionysbiz
-  repo: testafterfirstsuccess
-  url: https://github.com/dionysbiz/testafterfirstsuccess.git
+  repo: testingress
+  url: https://github.com/dionysbiz/testingress.git
   version: ""
   versionURL: ""
